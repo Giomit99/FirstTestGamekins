@@ -16,7 +16,7 @@ public class CinemaApp {
         movie1.doSomething();
         //
 
-        System.out.println("All Movies:");
+        System.out.println("All Movies: ");
         System.out.println(movie1);
         System.out.println(movie2);
     }
