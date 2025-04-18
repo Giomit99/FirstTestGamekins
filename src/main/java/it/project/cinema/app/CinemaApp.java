@@ -11,11 +11,6 @@ public class CinemaApp {
         MovieService movieService = new MovieService();
         movieService.setMovie(movie1);
 
-        // Ciclo
-        movie1.setMovieService(movieService);
-        movie1.doSomething();
-        //
-
         System.out.println("All Movies: ");
         System.out.println(movie1);
         System.out.println(movie2);
