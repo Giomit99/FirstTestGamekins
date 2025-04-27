@@ -1,7 +1,7 @@
-package it.project.cinema.app;
+package com.project.cinema.app;
 
-import it.project.cinema.models.Movie;
-import it.project.cinema.services.MovieService;
+import com.project.cinema.models.Movie;
+import com.project.cinema.services.MovieService;
 /*
 public class CinemaApp {
     public static void main(String[] args) {

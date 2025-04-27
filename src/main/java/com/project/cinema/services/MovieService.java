@@ -1,6 +1,6 @@
-package it.project.cinema.services;
+package com.project.cinema.services;
 
-import it.project.cinema.models.Movie;
+import com.project.cinema.models.Movie;
 import lombok.Getter;
 import lombok.Setter;
 
