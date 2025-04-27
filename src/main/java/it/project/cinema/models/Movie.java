@@ -4,7 +4,8 @@ import it.project.cinema.services.MovieService;
 import lombok.Getter;
 import lombok.Setter;
 
-/*@Setter
+/*
+@Setter
 @Getter
 public class Movie {
     private String title;
@@ -27,8 +28,8 @@ public class Movie {
             movieService.someMethod();
     }
     //
-}*/
-
+}
+*/
 @Getter
 @Setter
 public class Movie {
